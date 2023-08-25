@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\bhomik\\Desktop\\Module-Smart-Contract-Management---ETH-AVAX-main\\contracts\\Assessment.sol": {
+      "lastModificationDate": 1692882716346,
+      "contentHash": "71060b30ed0a9351714715fa410e58b4",
+      "sourceName": "contracts/Assessment.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Assessment"
+      ]
+    }
+  }
+}
