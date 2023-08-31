@@ -59,7 +59,7 @@ The updated naming will be stored on the blockchain, and the page will display t
 4. MetaMask
 
 ## Authors
-Bhomik Jain
+Anjali Sharma
 
 ## License
 
