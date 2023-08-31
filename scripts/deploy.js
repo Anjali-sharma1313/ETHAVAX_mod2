@@ -8,7 +8,7 @@ const hre = require("hardhat");
 
 async function main() {
   const Name = await hre.ethers.getContractFactory("Assessment");
-  const name = await Name.deploy("My System");
+  const name = await Name.deploy("APPLE");
 
   await name.deployed();
 
